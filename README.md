@@ -1,3 +1,2 @@
 # AppliedBioinformatics
-
-- Hello world!
+Hello world!
